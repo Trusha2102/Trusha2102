@@ -79,10 +79,8 @@ Here’s how I roll: **Code. Create. Innovate.** 🎯
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trusha-jadeja/)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://trusha-jadeja.onrender.com)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/trusha_dev)
-
 ---
 
 > "Tech is my playground, and I’m always up for a new adventure."
 
-✨ **Made with love by [Trusha2102](https://github.com/Trusha2102)** ✨
+✨ **Made with ❤️ by [Trusha2102](https://github.com/Trusha2102)** ✨
